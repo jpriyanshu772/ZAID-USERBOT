@@ -101,7 +101,7 @@
 ```console
 Zaid@Debian~ $ apt-get -y update
 Zaid@Debian~ $ apt-get -y install git gcc python3-dev
-Zaid@Debian~ $ git clone https://github.com/ITZ-ZAID/ZAID-USERBOT
+Zaid@Debian~ $ git clone https://github.com/jpriyanshu772/ZAID-USERBOT
 Zaid@Debian~ $ cd ZAID-USERBOT
 Zaid@Debian~ $ pip3 install -U-r requirements.txt
 Zaid@Debian~ $ nano config.py
